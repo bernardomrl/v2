@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
+* {
+    scroll-behavior: smooth;
+}
+
+*::selection {
+    @apply bg-primary/75;
+}
+
+.project {
+    @apply transition-opacity duration-500 ease-in-out border border-transparent;
+} 
+
+.projects:hover .project {
+    @apply opacity-50;
+}
+
+.projects .project:hover {
+    @apply opacity-100 bg-base-200/75 border-base-300;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
