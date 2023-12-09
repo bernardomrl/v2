@@ -28,13 +28,13 @@ export default function codeMockup() {
           <span className="text-red-500">{'      '}frontend</span>
           <span className="text-primary-content/75">: </span>
           <span className="text-orange-500">[</span>
-          <span className="text-green-500">'react'</span>
+          <span className="text-green-500">&apos;react&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'next'</span>
+          <span className="text-green-500">&apos;next&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'ts'</span>
+          <span className="text-green-500">&apos;ts&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'tailwind'</span>
+          <span className="text-green-500">&apos;tailwind&apos;</span>
           <span className="text-orange-500">]</span>
           <span className="text-primary-content/75">,</span>
         </code>
@@ -44,13 +44,13 @@ export default function codeMockup() {
           <span className="text-red-500">{'      '}backend</span>
           <span className="text-primary-content/75">: </span>
           <span className="text-orange-500">[</span>
-          <span className="text-green-500">'express'</span>
+          <span className="text-green-500">&apos;express&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'mysql'</span>
+          <span className="text-green-500">&apos;mysql&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'mongodb'</span>
+          <span className="text-green-500">&apos;mongodb&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'ts'</span>
+          <span className="text-green-500">&apos;ts&apos;</span>
           <span className="text-orange-500">]</span>
         </code>
       </pre>
@@ -65,13 +65,13 @@ export default function codeMockup() {
           <span className="text-red-500">{'    '}ferramentas</span>
           <span className="text-primary-content/75">: </span>
           <span className="text-purple-500">[</span>
-          <span className="text-green-500">'vscode'</span>
+          <span className="text-green-500">&apos;vscode&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'git'</span>
+          <span className="text-green-500">&apos;git&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'npm'</span>
+          <span className="text-green-500">&apos;npm&apos;</span>
           <span className="text-primary-content/75">, </span>
-          <span className="text-green-500">'yarn'</span>
+          <span className="text-green-500">&apos;yarn&apos;</span>
           <span className="text-purple-500">]</span>
         </code>
       </pre>
