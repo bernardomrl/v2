@@ -8,8 +8,7 @@ import { ScrollUpButton } from '@/components/utils';
 import {
   IdentificationIcon,
   WalletIcon,
-  EnvelopeIcon,
-  ArrowDownTrayIcon
+  EnvelopeIcon
 } from '@heroicons/react/20/solid';
 
 const navigation = [
@@ -48,10 +47,6 @@ export default function Header() {
             <item.icon className="h-4 w-4 md:hidden" />
           </Link>
         ))}
-        <div className="divider divider-horizontal"></div>
-        <Link href="/" className="btn btn-ghost btn-xs rounded-md">
-          <ArrowDownTrayIcon className="h-4 w-4" />
-        </Link>
       </div>
       <ScrollUpButton />
     </header>
