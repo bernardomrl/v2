@@ -14,6 +14,12 @@ const projects = [
     desc: 'Um template de configuração pronto para uso no Next.js oferece uma configuração pré-definida com ESLint, Tailwind CSS, Prettier e TypeScript. Essas ferramentas facilitam o desenvolvimento de aplicativos web modernos, com foco na qualidade do código e na eficiência do processo de programação. ',
     link: 'https://github.com/bernardomrl/nextjs-template',
     techs: ['ESLint', 'Tailwind CSS', 'Prettier', 'TypeScript', 'Next.js']
+  },
+  {
+    name: 'Realtime Chat App',
+    desc: 'Um sistema de chat em tempo real por meio da integração das tecnologias React.js e Node.js, utilizando o framework Express para o backend. A aplicação foi complementada com a utilização da API fornecida pelo ChatEngine.io, possibilitando a criação de uma experiência interativa e dinâmica de comunicação em tempo real.',
+    link: 'https://github.com/bernardomrl/realtime-chat',
+    techs: ['React.js', 'Node.js', 'Express.js', 'ChatEngine.io']
   }
 ];
 
